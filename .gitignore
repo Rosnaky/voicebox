@@ -1,4 +1,5 @@
 venv
 mistral_models
 ljspeech_dataset.zip
-ljspeech_dataset
+LJSpeech-1.1
+train
